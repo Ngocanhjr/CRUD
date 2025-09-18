@@ -28,6 +28,8 @@ React (Frontend) <--> Spring Boot (Backend - REST API) <--> MySQL (Database)
 
 ### Frontend
 - [React](https://react.dev/)
+- Axios (for API calls)
+- CSS / Tailwind
 
 ### Database
 - MySQL 9.x
@@ -116,6 +118,8 @@ npm start
 ```
 Frontend will run at:
 👉 http://localhost:3000
+
+---
 
 ## 🧾 Notes
 _For production, switch to `validate` and use a database migration tool (Flyway/Liquibase)._
